@@ -4,16 +4,23 @@
  */
 package main;
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> Stashed changes
 
 
 public class Main {
 
+<<<<<<< Updated upstream
 
 =======
 
 
 public class Main {
 
+  
+>>>>>>> Stashed changes
+=======
   
 >>>>>>> Stashed changes
     public static void main(String[] args) {

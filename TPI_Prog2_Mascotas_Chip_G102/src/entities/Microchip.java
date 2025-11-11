@@ -5,10 +5,14 @@
 package entities;
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 /**
  *
  * @author vcman
  */
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
