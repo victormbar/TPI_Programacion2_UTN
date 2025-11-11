@@ -4,7 +4,10 @@
  */
 package entities;
 
-
-public class Mascota {
-    #Mascota
+/**
+ *
+ * @author vcman
+ */
+public class Base {
+    
 }
