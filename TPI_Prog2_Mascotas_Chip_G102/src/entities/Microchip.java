@@ -4,10 +4,14 @@
  */
 package entities;
 
+<<<<<<< Updated upstream
 /**
  *
  * @author vcman
  */
+=======
+
+>>>>>>> Stashed changes
 public class Microchip {
     
 }
