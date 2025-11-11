@@ -11,7 +11,7 @@ package tpi_prog2_mascotas_chip_g102;
 public class TPI_Prog2_Mascotas_Chip_G102 {
 
     /**
-     * @param args the command line arguments
+     * @param args the command  line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
