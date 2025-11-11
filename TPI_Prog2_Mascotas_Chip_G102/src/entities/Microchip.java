@@ -4,6 +4,15 @@
  */
 package entities;
 
+import java.time.LocalDate;
+
 public class Microchip {
-    
+    private Long id;
+    private Boolean eliminado;
+    private String codigo;
+    private LocalDate fechaImplantacion;
+    private String veterinaria;
+    private String observaciones;
+
+    public Microchip() {}
 }
