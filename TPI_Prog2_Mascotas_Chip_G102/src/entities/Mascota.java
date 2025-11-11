@@ -9,5 +9,5 @@ package entities;
  * @author vcman
  */
 public class Mascota {
-    
+    #Mascota
 }
