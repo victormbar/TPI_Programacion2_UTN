@@ -16,7 +16,6 @@ public class Microchip {
 
     public Microchip() {}
     
-    
 public Microchip(Long id, Boolean eliminado, String codigo, LocalDate fechaImplantacion, String veterinaria, String observaciones) {
         this.id = id;
         this.eliminado = eliminado;
