@@ -4,6 +4,10 @@
  */
 package entities;
 
-public class Microchip {
+/**
+ *
+ * @author vcman
+ */
+public class Base {
     
 }
