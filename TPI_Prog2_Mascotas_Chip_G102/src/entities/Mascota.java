@@ -6,5 +6,5 @@ package entities;
 
 
 public class Mascota {
-    
+    #Mascota
 }
