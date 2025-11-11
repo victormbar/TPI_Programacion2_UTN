@@ -8,6 +8,6 @@ package entities;
  *
  * @author vcman
  */
-public class Mascota {
+public class Base {
     
 }
