@@ -4,18 +4,15 @@
  */
 package entities;
 
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-/**
- *
- * @author vcman
- */
-=======
+import java.time.LocalDate;
 
->>>>>>> Stashed changes
-=======
-
->>>>>>> Stashed changes
 public class Microchip {
-    
+    private Long id;
+    private Boolean eliminado;
+    private String codigo;
+    private LocalDate fechaImplantacion;
+    private String veterinaria;
+    private String observaciones;
+
+    public Microchip() {}
 }
